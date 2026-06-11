@@ -81,7 +81,7 @@ function Hero() {
             </div>
 
             <p className="mt-6 text-slate-400 text-lg max-w-xl leading-relaxed">
-              B.Tech CSE Student at VIT with a CGPA of 9.11.
+              B.Tech CSE Student at VIT with a CGPA of 9.14.
               Passionate about building scalable applications,
               solving challenging problems, and learning modern technologies.
             </p>
@@ -106,7 +106,7 @@ function Hero() {
 
   <div className="text-center">
     <h3 className="text-3xl font-black text-cyan-400">
-      9.11
+      9.14
     </h3>
     <p className="text-slate-400">
       CGPA

@@ -11,7 +11,7 @@ const achievements = [
   {
     icon: <FaGraduationCap />,
     title: "Current CGPA",
-    value: "9.11",
+    value: "9.14",
     description: "Maintaining strong academic performance in Computer Science.",
   },
   {
@@ -127,7 +127,7 @@ function Achievements() {
                     Current CGPA
                   </p>
                   <h4 className="text-3xl font-black text-white">
-                    9.11
+                    9.14
                   </h4>
                 </div>
 

@@ -63,7 +63,7 @@ function About() {
           >
             <div className="bg-cyan-500/10 border border-cyan-500/20 rounded-3xl p-8 text-center">
               <h3 className="text-5xl font-black text-cyan-400">
-                9.11
+                9.14
               </h3>
               <p className="mt-2 text-slate-300">
                 Current CGPA

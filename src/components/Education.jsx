@@ -45,7 +45,7 @@ function Education() {
 
             <div className="mt-6 md:mt-0">
               <span className="px-5 py-3 rounded-xl bg-cyan-500/20 text-cyan-400 font-bold">
-                CGPA: 9.11
+                CGPA: 9.14
               </span>
             </div>
 
